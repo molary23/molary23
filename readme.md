@@ -1,7 +1,7 @@
 Hi 👋 My name is Azeez Adeola Hassan
 ====================================
 
-Full Stack Web Developer
+Software Developer (Full Stack)
 ------------------------
 
 A resourceful Software Developer with high creative capability and over 10+ years of experience in several areas of IT (IT management, data entry, system engineering, graphics design, and front-end and back-end web development). Self-motivated professional dedicated to achieving the best results.
