@@ -4,11 +4,11 @@ Hi 👋 My name is Azeez Adeola Hassan
 Full Stack Web Developer
 ------------------------
 
-I am a resourceful Full Stack Web Developer with high creative capability and over 7 years of experience in several areas of IT (System Engineering, Graphics Design and front-end and back-end Website development). Frequently updated with the latest technological innovations. Finally, a team player dedicated to achieving the best results.
+A resourceful Software Developer with high creative capability and over 10+ years of experience in several areas of IT (IT management, data entry, system engineering, graphics design, and front-end and back-end web development). Self-motivated professional dedicated to achieving the best results.
 
-*   🌍  I'm based in Nigeria
+*   🌍  I'm based in Ontario, Canada
 *   🖥️  See my portfolio at [My Portfolio](http://www.hassanadeola.com)
-*   ✉️  You can contact me at [mo\_lary@yahoo.com](mailto:mo_lary@yahoo.com)
+*   ✉️  You can contact me at [molary23@gmail.com](mailto:molary23@gmail.com)
 *   🚀  I'm currently working on [Lucipost Mobile App](http://www.lucipost.com)
 *   🧠  I'm learning React Native
 *   🤝  I'm open to collaborating on Front-end, Back-end Web Development and Mobile Apps Development
