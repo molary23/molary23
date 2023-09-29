@@ -10,8 +10,8 @@ A resourceful Software Developer with high creative capability and over 10+ year
 *   🖥️  See my portfolio at [My Portfolio](http://www.hassanadeola.com)
 *   ✉️  You can contact me at [molary23@gmail.com](mailto:molary23@gmail.com)
 *   🚀  I'm currently working on Interesting Projects
-*   🧠  I'm learning C#
-*   🤝  I'm open to collaborating on Front-end, Back-end Web Development and Mobile Apps Development
+*   🧠  I'm learning Python
+*   🤝  I'm open to collaborating on Front-end and back-end Web Development and Mobile Apps Development
 
 <a href="https://www.twitter.com/molary" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/molary?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
