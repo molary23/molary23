@@ -26,6 +26,6 @@ I am an evolving software developer with over 8 years of experience developing m
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/https://www.github.com/molary23"><img src="https://github-readme-stats.vercel.app/api?username=https://www.github.com/molary23&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="https://www.github.com/molary23's GitHub stats" /></a>
+<a href="http://www.github.com/molary23"><img src="https://github-readme-stats.vercel.app/api?username=molary23&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="molary23's GitHub stats" /></a>
 
-<a href="https://github.com/https://www.github.com/molary23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://www.github.com/molary23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/molary23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=molary23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
